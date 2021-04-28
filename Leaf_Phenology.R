@@ -1,3 +1,5 @@
+# This code is for the modified Kikuzawa carbon-budget model developed in the term paper "Ecology of Leaf Phenology", by Yibiao Zou. 
+
 # clean work space & load required packages
 rm(list=ls())
 library(tidyverse)
